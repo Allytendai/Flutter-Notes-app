@@ -1,7 +1,7 @@
 # 📝 Notes App (Flutter)
 
 A simple and elegant **Notes App** built using **Flutter** that allows users to create, edit, and delete notes locally.  
-This project was developed as part of a comparative study into **mobile app frameworks** for my dissertation project.
+This project was developed as part of a comparative study into **hybrid mobile application frameworks** for my dissertation project.
 
 ---
 
