@@ -1,21 +1,21 @@
 # 📝 Notes App (Flutter)
 
-A simple and elegant Notes App built using Flutter that allows users to create, edit, and delete notes locally.  
-This project was developed as part of a comparative study into hybrid mobile app frameworks for my dissertation project.
+A simple and elegant **Notes App** built using **Flutter** that allows users to create, edit, and delete notes locally.  
+This project was developed as part of a comparative study into **mobile app frameworks** for my dissertation project.
 
 ---
 
- Features
+## 🚀 Features
 
--  Create, edit, and delete notes  
--  Local data storage using **Sqflite** (SQLite for Flutter)  
--  Search and filter notes  
--  Clean, minimal Material Design UI  
--  Fully responsive layout for Android, iOS, and Web  
+- 🗒️ Create, edit, and delete notes  
+- 💾 Local data storage using **Sqflite** (SQLite for Flutter)  
+- 🔍 Search and filter notes  
+- 🌙 Clean, minimal Material Design UI  
+- 📱 Fully responsive layout for Android, iOS, and Web  
 
 ---
 
- Built With
+## 🛠️ Built With
 
 | Component | Description |
 |------------|-------------|
@@ -28,9 +28,9 @@ This project was developed as part of a comparative study into hybrid mobile app
 
 ---
 
-  Installation & Setup
+## ⚙️ Installation & Setup
 
- Prerequisites
+### 1️⃣ Prerequisites
 Ensure you have the following installed:
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - Android Studio or VS Code with Flutter & Dart extensions
@@ -38,7 +38,7 @@ Ensure you have the following installed:
 
 ---
 
- Clone the Repository
+### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<ally_tendai>/notes_app.git
+git clone https://github.com/Allytendai/notes_app.git
 cd notes_app
